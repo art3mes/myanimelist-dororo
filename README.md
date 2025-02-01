@@ -1,5 +1,1 @@
-# myanimelist-copy
-a static copy of myanimelist.net
-
-
-This website clone of myanimelist is deployed on netlify. You can view it using this link [HERE](https://vermillion-pastelito-d820aa.netlify.app)
+![image](https://github.com/user-attachments/assets/852c0747-be4e-408a-84a3-0753c9822f2c)
